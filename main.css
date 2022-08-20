@@ -1,4 +1,13 @@
-div. a {
-    text-align: center;
+#container {
+    justify-content: center;
 }
+
+#newEntry {
+    justify-content: center;
+}
+
+#bkgrnd {
+    background-image: url('https://api.gretchenrubin.com/wp-content/uploads/sites/2/2007/08/pencils-yellow-background-e1532541211961.jpg?quality=90&resize=650%2C355');
+}
+
 
