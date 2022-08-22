@@ -29,6 +29,6 @@ const journalEntry = [
   }
 ]
 export const getJournalEntries = () => {
-    const copyOfEntries = journalEntries.map(entry => ({...entry}))
+    const copyOfEntries = journalEntry.map(entry => ({...entry}))
     return copyOfEntries
   }
